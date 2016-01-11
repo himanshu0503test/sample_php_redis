@@ -1,4 +1,4 @@
-build_image: chetantarale/u14phppls:testtip
+build_image: chetantarale/u12phppls:tiptest
 
 language: php
 
