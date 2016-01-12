@@ -1,8 +1,10 @@
-build_image: chetantarale/u12phppls:tiptest
-
 language: php
 
+build_image: chetantarale/u12phppls:includesmultiplephpunit
+
 php: 
+  - 5.4
+  - 5.5
   - 5.6
   - '7.0'
 
